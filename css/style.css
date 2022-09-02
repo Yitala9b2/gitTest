@@ -182,7 +182,7 @@ h6 {
 li,
 a {
   margin: 75px 0 -55px 0;
-  color: #1ff403;
+  color: #03A9F4;
   font: 14pt "Roboto", sans-serif;
   font-weight: 700;
   line-height: 1.8;
@@ -239,7 +239,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: #03A9F4;
+  background-color: #0bf403;
   font-family: "Roboto", sans-serif;
   overflow: hidden;
 }
