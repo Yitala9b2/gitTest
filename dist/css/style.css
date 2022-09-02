@@ -239,7 +239,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: #53494b;
+  background-color: #dfab00;
   font-family: "Roboto", sans-serif;
   overflow: hidden;
 }
@@ -251,7 +251,7 @@ body {
   position: absolute;
   top: 25px;
   left: 25px;
-  background: #63f403;
+  background: #f47703;
   width: 30px;
   height: 5px;
   -webkit-transition: 0.2s ease;
