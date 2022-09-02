@@ -251,7 +251,7 @@ body {
   position: absolute;
   top: 25px;
   left: 25px;
-  background: #f47703;
+  background: #8f5e30;
   width: 30px;
   height: 5px;
   -webkit-transition: 0.2s ease;
@@ -324,7 +324,7 @@ body {
   padding: 0;
   width: 110px;
   height: 110px;
-  background-color: #fff;
+  background-color: rgb(55, 119, 92);
   border-bottom-right-radius: 100%;
   -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
           box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
